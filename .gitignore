@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (optional: exclude if large or reproducible)
+winequality-red-selected-missing*
+
+# Model and preprocessing artifacts
+*.pkl

@@ -9,5 +9,3 @@ __pycache__/
 # Dataset files (optional: exclude if large or reproducible)
 winequality-red-selected-missing*
 
-# Model and preprocessing artifacts
-*.pkl
